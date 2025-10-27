@@ -1,54 +1,73 @@
-### Xin chào! Tôi là Nguyễn Anh Ngọc 👋
-
-<p align="left">
-  🛠️ Là một nhà phát triển Backend tập trung vào xây dựng các hệ thống mạnh mẽ và có khả năng mở rộng. Tôi đam mê công nghệ và luôn tìm kiếm các kiến trúc hệ thống tối ưu để xây dựng những sản phẩm vững chắc.
-  <br/>
-  <br/>
-  - 🚀 Hiện đang làm việc với **Python** và **Node.js** để phát triển các dịch vụ API hiệu suất cao.
-  - 💡 Quan tâm đến việc áp dụng **Docker** để chuẩn hóa môi trường làm việc và triển khai ứng dụng.
-  - 🎯 Mục tiêu: Áp dụng kiến thức nền tảng vững chắc để giải quyết các vấn đề kỹ thuật phức tạp thông qua các dự án thực tế.
-</p>
+<div align="center">
+  </div>
 
 ---
 
-### ⚙️ Ngôn ngữ & Công cụ Chính
+## 🚀 Giới thiệu (About Me)
 
-<p align="left">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
-    
-    <br/>
-    
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" /> 
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis (Caching)" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-    
-    <br/>
-    
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
-</p>
+Tôi là **Nguyễn Anh Ngọc**, một nhà phát triển **Backend** đam mê xây dựng các dịch vụ API mạnh mẽ và tối ưu. Tôi tập trung vào hiệu suất hệ thống và tính ổn định của mã nguồn.
+
+- 💡 **Định hướng:** Xây dựng các hệ thống có khả năng mở rộng (scalable) và kiến trúc vững chắc.
+- 🎯 **Dự án nổi bật:** Đang phát triển một dự án Web Mail 10 phút, sử dụng Redis và Docker.
+- 📚 **Đang nghiên cứu:** Các phương pháp tối ưu hóa hiệu suất cơ sở dữ liệu và bảo mật ứng dụng.
+- 📫 **Liên hệ:** **mk123anhngoc@gmail.com**
+- ⚡ **Fun fact:** Code sạch luôn đẹp hơn code phức tạp.
 
 ---
 
-### 📈 Số liệu Hoạt động
+## 🛠️ Tech Stack
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hinataloli&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ngoc's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinataloli&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+### Ngôn ngữ & Nền tảng
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hinataloli&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+### Cơ sở dữ liệu & Cache
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### Công cụ & Triển khai
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🔗 Kết nối
+## 📊 GitHub Stats
 
-<p align="left">
-    <a href="mailto:mk123anhngoc@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email: mk123anhngoc@gmail.com" />
-    </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hinataloli&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hinataloli&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinataloli&theme=dark&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="mailto:mk123anhngoc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hinataloli&style=flat-square&color=blue" alt="Profile Views"/>
+  
+  **Cảm ơn bạn đã ghé thăm hồ sơ của tôi! Rất mong được kết nối và hợp tác! 🚀**
+</div>
