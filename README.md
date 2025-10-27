@@ -1,14 +1,9 @@
-<div align="center">
-  </div>
-
----
-
 ## 🚀 Giới thiệu (About Me)
 
 Tôi là **Nguyễn Anh Ngọc**, một nhà phát triển **Backend** đam mê xây dựng các dịch vụ API mạnh mẽ và tối ưu. Tôi tập trung vào hiệu suất hệ thống và tính ổn định của mã nguồn.
 
 - 💡 **Định hướng:** Xây dựng các hệ thống có khả năng mở rộng (scalable) và kiến trúc vững chắc.
-- 🎯 **Dự án nổi bật:** Đang phát triển một dự án Web Mail 10 phút, sử dụng Redis và Docker.
+- 🎯 **Dự án nổi bật:** Đang phát triển một dự án Web Mail 10 phút, sử dụng NodeJS và Docker.
 - 📚 **Đang nghiên cứu:** Các phương pháp tối ưu hóa hiệu suất cơ sở dữ liệu và bảo mật ứng dụng.
 - 📫 **Liên hệ:** **mk123anhngoc@gmail.com**
 - ⚡ **Fun fact:** Code sạch luôn đẹp hơn code phức tạp.
